@@ -1,6 +1,6 @@
-# Programacao_Orietando_Objetos
+# Programacao Orietando Objetos
 
-Espero que isso ajude alguém que esteja procurando por isso, Eclipse IDE é muito bom de usar :D
+Espero que isso ajude alguém que esteja procurando por isso. :D
 
 
 # Exercícios de Programação Orientada a Objetos em Java
