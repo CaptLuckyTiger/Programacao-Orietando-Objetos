@@ -1,4 +1,4 @@
-# Programacao Orietando Objetos
+# Programação Orietando Objetos
 
 Espero que isso ajude alguém que esteja procurando por isso. :D
 
@@ -17,7 +17,7 @@ O repositório está organizado da seguinte maneira:
 
 ## Utilizando o Eclipse IDE
 
-Recomendamos o uso do Eclipse IDE para o desenvolvimento dos exercícios. O Eclipse é uma poderosa IDE para Java, oferecendo recursos avançados de desenvolvimento e depuração.
+Recomendo o uso do Eclipse IDE para o desenvolvimento dos exercícios. O Eclipse é uma poderosa IDE para Java, oferecendo recursos avançados de desenvolvimento e depuração.
 
 Para começar a usar o Eclipse com este repositório:
 
